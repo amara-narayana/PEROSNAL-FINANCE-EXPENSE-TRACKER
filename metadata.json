@@ -1,0 +1,6 @@
+{
+  "name": "Personal Finance",
+  "description": "A beautiful, offline-first personal finance tracker with local storage, budgets, recurring transactions, monthly analytics, and secure CSV backup exports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
